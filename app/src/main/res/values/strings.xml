@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Authentic</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_empty_fields">Please fill in all fields.</string>
+    <string name="result_square">Square Area: %.2f</string>
+    <string name="result_triangle">Triangle Area: %.2f</string>
+    <string name="result_circle">Circle Area: %.2f</string>
+    <string name="result_cuboid">Cuboid Volume: %.2f</string>
+    <string name="result_pyramid">Pyramid Volume: %.2f</string>
+    <string name="result_cylinder">Cylinder Volume: %.2f</string>
+</resources>
